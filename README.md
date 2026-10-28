@@ -45,3 +45,17 @@ This repository contains documentation, configurations, and hands-on exercises c
 ## 5. Azure Resource Management
 * **Resource Group Creation**: Configured and deployed a new resource group named `Pratical-rg` under an *Azure for Students* subscription.
 * **Region Allocation**: Provisioned the resource group within the *Indonesia Central* region for centralized resource organization.
+
+
+## Author
+
+**Apurva Kesarkar**
+
+Computer Science Engineering Student
+
+- LinkedIn: [Apurva Kesarkar](https://www.linkedin.com/in/apurva-kesarkar-8004a5422)
+- GitHub: [Apurva Kesarkar](https://github.com/apurvakesarkar46)
+
+---
+
+
